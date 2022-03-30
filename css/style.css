@@ -2814,3 +2814,7 @@ html.is-animating .fade-left {
 .progressbar-text{
   display: none;
 }
+
+.obj-left img{
+  object-position: left!important;
+}
